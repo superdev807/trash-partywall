@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/superdev807/trash-partywall/issues"
   },
-  "homepage": "https://github.com/superdev807/trash-partywall#readme"
+  "homepage": "https://github.com/superdev807/trash-partywall#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "config": "^3.3.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
 }
